@@ -1,4 +1,4 @@
 class User{
 
-    System.out.println("hii")
+    System.out.println("hello World")
 }
