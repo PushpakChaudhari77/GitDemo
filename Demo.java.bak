@@ -1,10 +1,10 @@
-
+<<<<<<< HEAD
 class Demo{
     int v=15;
 }
-
+=======
 class Demo{
 int s=10;
   System.outprintln("s");
 }
-
+>>>>>>> 0bb476097b6352f2f2fbc9959db675a6ba574225
